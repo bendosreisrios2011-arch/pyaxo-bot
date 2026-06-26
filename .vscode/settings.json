@@ -1,0 +1,8 @@
+{
+  "explorer.openEditors.visible": 9,
+  "files.exclude": {
+    "**/.git": false,
+    "**/.gitignore": false,
+    "**/__pycache__": false
+  }
+}
