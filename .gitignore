@@ -1,5 +1,27 @@
+# Arquivos secretos
 .env
+.env.*
+
+# Cache do Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
 venv/
 .venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Arquivos temporários
+tempCodeRunnerFile.py
