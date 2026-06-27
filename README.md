@@ -7,7 +7,7 @@ The bot is designed to help organize the course and support beginners with comma
 
 ## Python Academy BR
 
-Python Academy BR is a free Brazilian Python course inspired by structured computer science learning models.
+Python Academy BR is a free Python course created in Brazil inspired by structured computer science learning models.
 
 The course is made for people who want to learn Python, especially those who may not be able to pay for an expensive programming course.
 
