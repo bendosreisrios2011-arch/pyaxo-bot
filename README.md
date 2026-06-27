@@ -1,4 +1,3 @@
-# pyaxo-bot
 # PyAxo Bot
 
 PyAxo is a Discord bot I am building for **Python Academy BR**, a free Python course hosted on Discord.
